@@ -1,0 +1,93 @@
+{
+  "charismata": [
+    {
+      "id": "weisheit",
+      "name_de": "Weisheit",
+      "description": "Um zur rechten Zeit das Richtige zu tun. Die Weisheit lässt uns die Dinge aus Gottes Perspektive sehen.",
+      "icon": "🕊️",
+      "stats": {
+        "grace_bonus": 15,
+        "category": "Insight",
+        "daily_activations": 0,
+        "max_level": 7
+      }
+    },
+    {
+      "id": "einsicht",
+      "name_de": "Einsicht",
+      "description": "Um stets das große Ganze im Blick zu haben. Sie hilft uns, die tiefen Wahrheiten des Glaubens zu verstehen.",
+      "icon": "📖",
+      "stats": {
+        "grace_bonus": 12,
+        "category": "Understanding",
+        "daily_activations": 0,
+        "max_level": 7
+      }
+    },
+    {
+      "id": "rat",
+      "name_de": "Rat",
+      "description": "Um Entscheidungen überlegt zu treffen und anderen beratend zur Seite zu stehen.",
+      "icon": "🗣️",
+      "stats": {
+        "grace_bonus": 10,
+        "category": "Counsel",
+        "daily_activations": 0,
+        "max_level": 7
+      }
+    },
+    {
+      "id": "staerke",
+      "name_de": "Stärke",
+      "description": "Um allen Herausforderungen standzuhalten. Sie gibt Mut und Kraft, auch wenn es schwer wird.",
+      "icon": "💪",
+      "stats": {
+        "grace_bonus": 18,
+        "category": "Fortitude",
+        "daily_activations": 0,
+        "max_level": 7
+      }
+    },
+    {
+      "id": "erkenntnis",
+      "name_de": "Erkenntnis",
+      "description": "Um zu unterscheiden, was richtig ist und was falsch. Sie lässt uns Gott in der Schöpfung entdecken.",
+      "icon": "🔍",
+      "stats": {
+        "grace_bonus": 14,
+        "category": "Knowledge",
+        "daily_activations": 0,
+        "max_level": 7
+      }
+    },
+    {
+      "id": "froemmigkeit",
+      "name_de": "Frömmigkeit",
+      "description": "Um den Kontakt zu Gott nicht zu verlieren. Sie lässt uns Gott als liebenden Vater verehren.",
+      "icon": "🙏",
+      "stats": {
+        "grace_bonus": 11,
+        "category": "Piety",
+        "daily_activations": 0,
+        "max_level": 7
+      }
+    },
+    {
+      "id": "gottesfurcht",
+      "name_de": "Gottesfurcht",
+      "description": "Um Ehrfurcht vor Gott und seiner gesamten Schöpfung zu haben. Sie hilft, die Sünde zu meiden.",
+      "icon": "🌟",
+      "stats": {
+        "grace_bonus": 20,
+        "category": "Fear of the Lord",
+        "daily_activations": 0,
+        "max_level": 7
+      }
+    }
+  ],
+  "player": {
+    "total_grace": 0,
+    "level": 1,
+    "last_activation": null
+  }
+}
